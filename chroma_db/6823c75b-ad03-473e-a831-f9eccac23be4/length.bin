@@ -1,0 +1,10 @@
+descriptions into numerical vectors. 
+o Embeddings capture semantic meaning, enabling similarity-based 
+matching. 
+4. Vector Indexing 
+o FAISS (Facebook AI Similarity Search) indexes the embeddings. 
+o Separate indices are created for jobs and courses. 
+o Enables millisecond-level retrieval of top matches. 
+ 
+Recommendation Logic 
+When a user enters a skill or interest (e.g. “I know Networks”)

@@ -1,0 +1,15 @@
+[theme]
+# Professional, trusting blue (Accent Color)
+primaryColor = "#00b4d8" # A brighter blue that stands out on dark backgrounds
+
+# Deep, professional dark gray for the main background (matches screenshot)
+backgroundColor = "#0d1117" 
+
+# A slightly lighter dark gray for content blocks/secondary background
+secondaryBackgroundColor = "#161b22"
+
+# Crisp white/light gray for text
+textColor = "#e6edf3"
+
+# Modern, clean font
+font = "sans serif"
